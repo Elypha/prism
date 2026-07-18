@@ -1,0 +1,24 @@
+{
+  "name": "prism",
+  "version": "0.1.0",
+  "description": "Evidence-led workflows for complex, multi-stage work.",
+  "author": {
+    "name": "Elypha",
+    "url": "https://github.com/Elypha"
+  },
+  "homepage": "https://github.com/Elypha/prism#readme",
+  "repository": "https://github.com/Elypha/prism",
+  "license": "Apache-2.0",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Prism",
+    "shortDescription": "Drive complex work to evidence-backed completion",
+    "longDescription": "Keep multi-objective work aligned across long sessions, diagnose failures causally, review maintainability, and verify completion against the full user contract.",
+    "developerName": "Elypha",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Use Prism to drive this complex task to verified completion."
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prism"
+  short_description: "Run complex work with evidence and durable context"
+  default_prompt: "Use $prism to drive this complex task to verified completion."
